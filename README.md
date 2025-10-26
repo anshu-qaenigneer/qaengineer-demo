@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Facebook Automation Framework
 
 A comprehensive Selenium Behave automation framework for testing Facebook login functionality.
@@ -90,3 +91,9 @@ facebook-automation/
 - Python 3.7+
 - Chrome or Firefox browser
 - Internet connection
+=======
+cd# qaengineer-demo
+This is my first repository
+<br>
+Author-Anshu Sharma (Tester 7year experienced)
+>>>>>>> 5f51bff8addaeb5b85aaaca8150316efce1fa930
